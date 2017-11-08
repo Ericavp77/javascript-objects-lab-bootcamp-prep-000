@@ -8,7 +8,7 @@ function updateObjectWithKeyAndValue(object, key, value){
       return object
   }
     function deleteFromObjectByKey(object, key){
-      var b = {objec}
+      var b = {object}
         delete b.[key]
           return b
     }
